@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient_info>
+	<Last_name>Doe</Last_name>
+	<First_name>Jane</First_name>
+		<Gender>Female</Gender>
+		<DOB>1976-06-05</DOB>
+		<Age>45</Age>
+		<Weight>62</Weight>
+		<Height>163</Height>
+		<Allergies>
+			<Allergy1>Allergic to Amoxicillin</Allergy1>
+			<Allergy2>Allergic to chemotherapy drugs</Allergy2>	
+		</Allergies>
+		<Medication>
+			<Medication1>Lipitor</Medication1>
+			<Medication2>Captopril</Medication2>	
+		</Medication>
+
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>History of high blood pressure</Disease1>
+			<Disease2>History of heart attack</Disease2>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Appendectomy</Surgery_name>
+			<Hospital_name>ABC Hospital</Hospital_name>
+			<Date>1998-03-25</Date>
+			<City>Nevada</City>
+			<District>California</District>
+			<Country>USA</Country>	
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete blood count</Test1>
+			<Test2>ECG</Test2>	
+			<Test3>Lipid Panel</Test3>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>123</Street_No.>
+			<Street_name>George Washington Street</Street_name>
+			<Building>Sunshine Towers</Building>
+			<ZipCode>89101</ZipCode>
+			<City>Nevada</City>
+			<District>California</District>
+			<Country>USA</Country>	
+		</Billing>
+	
+	<Last_name>Doe</Last_name>
+	<First_name>John</First_name>
+		<Gender>Male</Gender>
+		<DOB>1971-12-01</DOB>
+		<Age>50</Age>
+		<Weight>75</Weight>
+		<Height>186</Height>
+		<Allergies>
+			<Allergy1>Allergic to Naproxen</Allergy1>
+		</Allergies>
+		<Medication>
+			<Medication1>Adderall</Medication1>
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>Attention Defficit Hyperactivity Disorder</Disease1>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Cataract surgery</Surgery_name>
+			<Hospital_name>Marcel Hospital</Hospital_name>
+			<Date>2005-09-13</Date>
+			<City>Nevada</City>
+			<District>California</District>
+			<Country>USA</Country>	
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete Blood Count</Test1>
+			<Test2>Basic Metabolic Panel</Test2>	
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>3245</Street_No.>
+			<Street_name>Carver Avenue</Street_name>
+			<Building>Sunshine Towers</Building>
+			<ZipCode>89030</ZipCode>
+			<City>Nevada</City>
+			<District>California</District>
+			<Country>USA</Country>	
+		</Billing>
+	
+	<Last_name>Heath</Last_name>
+	<First_name>Alan</First_name>
+		<Gender>Male</Gender>
+		<DOB>1998-01-01</DOB>
+		<Age>23</Age>
+		<Weight>105</Weight>
+		<Height>180</Height>
+		<Allergies>
+			<Allergy1>Allergic to Sulfa drugs</Allergy1>
+		</Allergies>
+		<Medication>
+			<Medication1>Carteolol</Medication1>
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>Obesity</Disease1>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Liposuction</Surgery_name>
+			<Hospital_name>St. Theresa Hospital</Hospital_name>
+			<Date>2018-01-31</Date>
+			<City>Roanoke</City>
+			<District>Virginia</District>
+			<Country>USA</Country>		
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Lipid Panel</Test1>
+			<Test2>Liver Panel</Test2>
+			<Test3>Thyroid Stimulating Hormone</Test3>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>9498</Street_No.>
+			<Street_name>Avenue St. Charles</Street_name>
+			<Building>None</Building>
+			<ZipCode>24001</ZipCode>
+			<City>Roanoke</City>
+			<District>Virginia</District>
+			<Country>USA</Country>		
+		</Billing>
+	
+	<Last_name>Ledger</Last_name>
+	<First_name>Heather</First_name>
+		<Gender>Female</Gender>
+		<DOB>1926-04-30</DOB>
+		<Age>95</Age>
+		<Weight>50</Weight>
+		<Height>170</Height>
+		<Allergies>
+			<Allergy1>Allergic to Tegratol</Allergy1>
+		</Allergies>
+		<Medication>
+			<Medication1>Paracetemol</Medication1>
+			<Medication1>Capsaicin cream</Medication1>
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+			<Vsccine6>Corona Virus</Vsccine6>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>Osteoarthiritis</Disease1>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Cartilage repair</Surgery_name>
+			<Hospital_name>Monte Carlo Orthopedic Center</Hospital_name>
+			<Date>1995-09-08</Date>
+			<City>Maryland</City>
+			<District>Virginia</District>
+			<Country>USA</Country>	
+
+			<Surgery_name>Knee replacement</Surgery_name>
+			<Hospital_name>Monte Carlo Orthopedic Center</Hospital_name>
+			<Date>1995-09-08</Date>
+			<City>Maryland</City>
+			<District>Virginia</District>
+			<Country>USA</Country>	
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Lipid Panel</Test1>
+			<Test2>Liver Panel</Test2>
+			<Test3>Joint Fluid Analysis</Test3>
+			<Test4>Complete Blood Count</Test4>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No>61248</Street_No>
+			<Street_name>Anthony Boulevard</Street_name>
+			<Building>None</Building>
+			<ZipCode>20906</ZipCode>
+			<City>Maryland</City>
+			<District>Virginia</District>
+			<Country>USA</Country>		
+		</Billing>
+
+	<Last_name>Dean</Last_name>
+	<First_name>James</First_name>
+		<Gender>Non-binary</Gender>
+		<DOB>1934-12-05</DOB>
+		<Age>87</Age>
+		<Weight>57</Weight>
+		<Height>160</Height>
+		<Allergies>
+			<Allergy1>Allergic to Aspirin</Allergy1>
+		</Allergies>
+		<Medication>
+			<Medication1>Inhaled Corticosteroids</Medication1>
+			<Medication2>Oxycodone</Medication2>	
+			<medication3>Tylenol</medication3>
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+			<Vaccine6>Corona Virus</Vaccine6>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>History of Asthma</Disease1>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Hip replacement</Surgery_name>
+			<Hospital_name>ABC Medical Center</Hospital_name>
+			<Date>2009-12-03</Date>
+			<City>Chicago</City>
+			<District>Illinois</District>
+			<Country>USA</Country>
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete blood count</Test1>
+			<Test2>Electrolytes</Test2>	
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>13324</Street_No.>
+			<Street_name>Hawthorne Street</Street_name>
+			<Building>Missy Towers</Building>
+			<ZipCode>60607</ZipCode>
+			<City>Chicago</City>
+			<District>Illinois</District>
+			<Country>USA</Country>	
+		</Billing>
+	
+	<Last_name>Ramy</Last_name>
+	<First_name>Alex</First_name>
+		<Gender>Female</Gender>
+		<DOB>1979-09-27</DOB>
+		<Age>42</Age>
+		<Weight>55</Weight>
+		<Height>159</Height>
+		<Allergies>
+			<Allergy1>Allergic to None</Allergy1>
+		</Allergies>
+		<Medication>
+			<Medication1>Ibuprofen</Medication1>
+			<Medication2>Hydroxychloroquine</Medication2>	
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+			<Vaccine6>Corona Virus</Vaccine6>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>Systemic Lupus Erythematosus</Disease1>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Kidney Transplant</Surgery_name>
+			<Hospital_name>Sunville Medical Center</Hospital_name>
+			<Date>2020-08-25</Date>
+			<City>Boise</City>
+			<District>Idaho</District>
+			<Country>USA</Country>	
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete blood count</Test1>
+			<Test2>Liver function test</Test2>	
+			<Test3>Urinalysis</Test3>
+			<Test4>Kidney function test</Test4>
+			<Test5>Antinuclear antibody test</Test5>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>94712</Street_No.>
+			<Street_name>Wheeler Street</Street_name>
+			<Building>None</Building>
+			<ZipCode>83301</ZipCode>
+			<City>Boise</City>
+			<District>Idaho</District>
+			<Country>USA</Country>
+		</Billing>
+	
+	<Last_name>Kindel</Last_name>
+	<First_name>Jonah</First_name>
+		<Gender>Male</Gender>
+		<DOB>1965-10-29</DOB>
+		<Age>56</Age>
+		<Weight>80</Weight>
+		<Height>186</Height>
+		<Allergies>
+			<Allergy2>Allergic to chemotherapy drugs</Allergy2>	
+		</Allergies>
+		<Medication>
+			<Medication1>None</Medication1>	
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>History of Breast Cancer</Disease1>
+			
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Tumor Removal</Surgery_name>
+			<Hospital_name>Daleville Hospital</Hospital_name>
+			<Date>2012-11-03</Date>
+			<City>Sacramento</City>
+			<District>California</District>
+			<Country>USA</Country>		
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete blood count</Test1>
+			<RT-PCR>Rapid Testing for Corona virus</RT-PCR>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>None</Street_No.>
+			<Street_name>80th Street</Street_name>
+			<Building>Alexis Towers</Building>
+			<ZipCode>94204</ZipCode>
+			<City>Sacramento</City>
+			<District>California</District>
+			<Country>USA</Country>	
+		</Billing>
+	
+	<Last_name>Hill</Last_name>
+	<First_name>Maryl</First_name>
+		<Gender>Female</Gender>
+		<DOB>1989-05-31</DOB>
+		<Age>32</Age>
+		<Weight>59</Weight>
+		<Height>169</Height>
+		<Allergies>
+			<Allergy1>Allergic to Penicillin</Allergy1>
+		</Allergies>
+		<Medication>
+			<Medication1>None</Medication1>
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>None</Disease1>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>None</Surgery_name>
+			<Hospital_name>None</Hospital_name>
+			<Date>None</Date>
+			<City>None</City>
+			<District>None</District>
+			<Country>None</Country>	
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete blood count</Test1>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>68752</Street_No.>
+			<Street_name>5th Avenue</Street_name>
+			<Building>Chloe Estate</Building>
+			<ZipCode>02807</ZipCode>
+			<City>Rhode Island</City>
+			<District>New York</District>
+			<Country>USA</Country>	
+		</Billing>
+	
+	<Last_name>Streep</Last_name>
+	<First_name>Jackson</First_name>
+		<Gender>Non-binary</Gender>
+		<DOB>1996-03-13</DOB>
+		<Age>25</Age>
+		<Weight>72</Weight>
+		<Height>179</Height>
+		<Allergies>
+			<Allergy1>None</Allergy1>
+		</Allergies>
+		<Medication>
+			<Medication1>Apixaban</Medication1>
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+			<Vaccine6>Corona Virus</Vaccine6>
+			<Vaccine7>Anti Tetanus</Vaccine7>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>Factor V Leiden</Disease1>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>None</Surgery_name>
+			<Hospital_name>None</Hospital_name>
+			<Date>None</Date>
+			<City>None</City>
+			<District>None</District>
+			<Country>None</Country>	
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete blood count</Test1>
+			<Test2>Lipid Panel</Test2>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>5984</Street_No.>
+			<Street_name>65th Avenue</Street_name>
+			<Building> None</Building>
+			<ZipCode>02802</ZipCode>
+			<City>Rhode Island</City>
+			<District>New York</District>
+			<Country>USA</Country>
+		</Billing>
+		
+	<Last_name>Harris</Last_name>
+	<First_name>Alexa</First_name>
+		<Gender>Non-binary</Gender>
+		<DOB>1975-07-16</DOB>
+		<Age>46</Age>
+		<Weight>70</Weight>
+		<Height>156</Height>
+		<Allergies>
+			<Allergy1>None</Allergy1>	
+		</Allergies>
+		<Medication>
+			<Medication1>Orlistat</Medication1>
+			<Medication2>Liraglutide</Medication2>	
+		</Medication>
+		<Vaccinations>
+			<Vaccine1>MMR</Vaccine1>
+			<Vaccine2>Hepatitis B</Vaccine2>
+			<Vaccine3>BCG</Vaccine3>
+			<Vaccine4>DPT</Vaccine4>
+			<Vaccine5>TT</Vaccine5>
+			<Vaccine6>Corona Virus</Vaccine6>
+		</Vaccinations>
+
+		<Diseases>
+			<Disease1>History of obesity</Disease1>
+			<Disease2>History of ALzeihmers</Disease2>
+		</Diseases>
+		
+		<Surgeries>
+			<Surgery_name>Gastric Bypass</Surgery_name>
+			<Hospital_name>Mother Mary Hospital</Hospital_name>
+			<Date>2005-06-15</Date>
+			<City>Dallas Fort Worth</City>
+			<District>Texas</District>
+			<Country>USA</Country>	
+		</Surgeries>
+		
+		<Lab_tests>
+			<Test1>Complete blood count</Test1>
+			<Test2>ECG</Test2>	
+			<Test3>Lipid Panel</Test3>
+		</Lab_tests>
+		
+		<Billing>
+			<Street_No.>10395</Street_No.>
+			<Street_name>Edgar Hoover Lane</Street_name>
+			<Building>None</Building>
+			<ZipCode>75034</ZipCode>
+			<City>Dallas Fort Worth</City>
+			<District>Texas</District>
+			<Country>USA</Country>	
+		</Billing>
+	
+</Patient_info>
