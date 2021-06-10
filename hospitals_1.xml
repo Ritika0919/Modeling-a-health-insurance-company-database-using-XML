@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="htttp://www.w3.org/2001/XMLSchema">
+	<xs:element name="Patient_info" type="personalRecord"/>
+	<xs:complexType name="personalRecord">
+		<xs:sequence>
+			<xs:element name='Last_name' type='Last_name'/>
+			<xs:element name='First_name' type='First_name'/>
+			<xs:element name='Gender' type='Gender'/>
+			<xs:element name='DOB' type='Date_of_Birth'/>
+			<xs:element name='Age' type='xs:integer'/>
+			<xs:element name='Weight in kg' type='xs:integer'/>
+			<xs:element name='Height in cm' type='xs:integer'/>			
+			<xs:complexType name="Allergies" type="allergy"/>
+			<xs:complexType name="allergy">
+				<xs:element name='Allergy1' type='allergy'/>
+				<xs:element name='Allergy2' type='allergy'/>
+				<xs:element name='Allergy3' type='allergy'/>
+				<xs:element name='Allergy4' type='allergy'/>
+				<xs:element name='Allergy5' type='allergy'/>
+				<xs:element name='Allergy6' type='allergy'/>
+				<xs:element name='Allergy7' type='allergy'/>
+				<xs:element name='Allergy8' type='allergy'/>
+				<xs:element name='Allergy9' type='allergy'/>
+				<xs:element name='Allergy10' type='allergy'/>
+			</xs:complexType>
+			<xs:complexType name="Medication" type="medicine"/>
+			<xs:complexType name="medicine">
+				<xs:element name='Medicine1' type='medicine'/>
+				<xs:element name='Medicine2' type='medicine'/>
+				<xs:element name='Medicine3' type='medicine'/>
+				<xs:element name='Medicine4' type='medicine'/>
+				<xs:element name='Medicine5' type='medicine'/>
+				<xs:element name='Medicine6' type='medicine'/>
+				<xs:element name='Medicine7' type='medicine'/>
+				<xs:element name='Medicine8' type='medicine'/>
+				<xs:element name='Medicine9' type='medicine'/>
+				<xs:element name='Medicine10' type='medicine'/>
+			</xs:complexType>
+			<xs:complexType name="Vaccinations" type="vaccines"/>
+			<xs:complexType name="vaccines">
+				<xs:element name='Vaccine1' type='vaccines'/>
+				<xs:element name='Vaccine2' type='vaccines'/>
+				<xs:element name='Vaccine3' type='vaccines'/>
+				<xs:element name='Vaccine4' type='vaccines'/>
+				<xs:element name='Vaccine5' type='vaccines'/>
+				<xs:element name='Vaccine6' type='vaccines'/>
+				<xs:element name='Vaccine7' type='vaccines'/>
+				<xs:element name='Vaccine8' type='vaccines'/>
+				<xs:element name='Vaccine9' type='vaccines'/>
+				<xs:element name='Vaccine10' type='vaccines'/>
+			</xs:complexType>			
+		
+			<xs:complexType name="Diseases" type="disease"/>
+			<xs:complexType name="disease">
+				<xs:element name='Disease1' type='disease'/>
+				<xs:element name='Disease2' type='disease'/>
+				<xs:element name='Disease3' type='disease'/>
+				<xs:element name='Disease4' type='disease'/>
+				<xs:element name='Disease5' type='disease'/>
+				<xs:element name='Disease6' type='disease'/>
+				<xs:element name='Disease7' type='disease'/>
+				<xs:element name='Disease8' type='disease'/>
+				<xs:element name='Disease9' type='disease'/>
+				<xs:element name='Disease10' type='disease'/>
+			</xs:complexType>
+			<xs:complexType name="Surgeries" type="surgery"/>
+			<xs:complexType name="surgery">
+				<xs:element name='Surgery_Name' type='SurgeryName'/>
+				<xs:element name='Hospital_name' type='HospitalName'/>
+				<xs:element name='Date' type='xs:string'/>
+				<xs:element name='City' type='city'/>
+				<xs:element name='District' type='district'/>
+				<xs:element name='Country' type='country'/>
+			</xs:complexType>
+			<xs:complexType name="Lab_tests" type="tests"/>
+			<xs:complexType name="tests">
+				<xs:element name='Test1' type='tests'/>
+				<xs:element name='Test2' type='tests'/>
+				<xs:element name='Test3' type='tests'/>
+				<xs:element name='Test4' type='tests'/>
+				<xs:element name='Test5' type='tests'/>
+				<xs:element name='Test6' type='tests'/>
+				<xs:element name='Test7' type='tests'/>
+				<xs:element name='Test8' type='tests'/>
+				<xs:element name='Test9' type='tests'/>
+				<xs:element name='Test10' type='tests'/>
+			</xs:complexType>
+			<xs:complexType name="Billing" type="bills"/>
+			<xs:complexType name="bills">
+				<xs:element name='Street_No.' type='xs:string'/>
+				<xs:element name='Street_name' type='xs:string'/>
+				<xs:element name='Building' type='xs:string'/>
+				<xs:element name='ZipCode' type='xs:string'/>
+				<xs:element name='City' type='city'/>
+				<xs:element name='District' type='district'/>
+				<xs:element name='Country' type='country'/>
+			</xs:complexType>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>
